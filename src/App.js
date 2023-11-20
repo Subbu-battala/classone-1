@@ -7,6 +7,8 @@ import Ex3 from './component/Ex3'
 import Ex4 from './component/Ex4'
 import Ex5 from './component/Ex5'
 import Ex6 from './component/Ex6'
+import Ex8 from './component/Ex8'
+import Ex9 from './component/Ex9'
 
 
 // component body -> functionalz(es5), const arrow(es5), const functional(es5) ,class(es6)
@@ -21,15 +23,16 @@ function App(props){
       <Button fname={"login"} />
       <Button fname={"register"} />
       <Button fname={"contact me"} />
-      <hr />
-      <Ex1/>
-      <hr />
+      <hr /> */}
+      {/* <Ex1/> */}
+      {/* <hr />
       <Ex2/>
       <hr/>
       <Ex3/> 
       <Ex4/> 
-      <Ex5/>*/}
-     <Ex6/>
+      <Ex5/> */}
+     {/* <Ex6/> */}
+     <Ex9/>
     </div>
   )
 }

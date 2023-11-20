@@ -7,3 +7,24 @@ function Button (props){
     )
 }
 export default Button
+
+/* 
+    function Ex1(props){
+        return(
+
+        )
+    }
+
+    const Ex1 = funxtion(props){
+        return(
+
+        )
+    }
+
+    const Ex1 = (props)=> {
+        return(
+            
+        )
+    }
+
+*/
